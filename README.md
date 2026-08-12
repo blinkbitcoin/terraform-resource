@@ -1,3 +1,5 @@
+For more context why this fork exists and is no longer needed, see https://github.com/blinkbitcoin/blink-wip/issues/1120
+
 ## Terraform Concourse Resource
 
 A [Concourse](http://concourse-ci.org/) resource that allows jobs to modify IaaS resources via [Terraform](https://www.terraform.io/).
